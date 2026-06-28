@@ -26,7 +26,6 @@ This project implements a complete motor control system where users interact via
 | 1   | LOW   | 25%        | 500 RPM       |
 | 2   | MED   | 50%        | 1000 RPM      |
 | 3   | HIGH  | 75%        | 1500 RPM      |
-| A   | OVERLOAD | 100%   | 3000 RPM (triggers buzzer) |
 
 ---
 
