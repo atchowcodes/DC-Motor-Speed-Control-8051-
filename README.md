@@ -76,8 +76,6 @@ This project implements a complete motor control system where users interact via
 | 4V 2000 RPM DC Motor | 2 |
 | DC-DC 12V to 3.3V & 5V Power Module | 1 |
 | Active Buzzer 5V | 1 |
-| 4x4 Keypad | 1 |
-| 16x2 LCD Display | 1 |
-| Crystal Oscillator | 1 |
+| External 12V supply  | 1 |
 
 ---
